@@ -1,0 +1,52 @@
+1:
+                           Table "public.customers"
+     Column     |            Type             | Collation | Nullable | Default 
+----------------+-----------------------------+-----------+----------+---------
+ customer_id    | bigint                      |           |          | 
+ title          | text                        |           |          | 
+ first_name     | text                        |           |          | 
+ last_name      | text                        |           |          | 
+ suffix         | text                        |           |          | 
+ email          | text                        |           |          | 
+ gender         | text                        |           |          | 
+ ip_address     | text                        |           |          | 
+ phone          | text                        |           |          | 
+ street_address | text                        |           |          | 
+ city           | text                        |           |          | 
+ state          | text                        |           |          | 
+ postal_code    | text                        |           |          | 
+ latitude       | double precision            |           |          | 
+ longitude      | double precision            |           |          | 
+ date_added     | timestamp without time zone |           |          | 
+Indexes:
+    "ix_customers_customer_id" btree (customer_id)
+
+
+2:
+                  email                  
+-----------------------------------------
+ aachrameevu44@goo.gl
+ aambresinlnt@walmart.com
+ aanstiss12af@eepurl.com
+ aantonove9l@last.fm
+ aarnaudet1v3@cisco.com
+
+
+3:
+  first_name   |    last_name    |                email                 
+---------------+-----------------+--------------------------------------
+ Nell          | Abdy            | nabdyec4@fema.gov
+ Thomasine     | Absolon         | tabsolonomk@forbes.com
+ Ram           | Acheson         | racheson1ai@bloglovin.com
+ Pru           | Achrameev       | pachrameev2sr@example.com
+ Jandy         | Adamowicz       | jadamowiczb1w@clickbank.net
+
+
+4:
+ customer_id |   title   |   first_name    |      last_name      | suffix |                   email                   | gender |   ip_address    |    phone     |         street_address          |           city            | state | postal_code |      latitude      |      longitude      |     date_added      
+-------------+-----------+-----------------+---------------------+--------+-------------------------------------------+--------+-----------------+--------------+---------------------------------+---------------------------+-------+-------------+--------------------+---------------------+---------------------
+        6173 |           | Danila          | Gristwood           |        | dgristwood4rg@furl.net                    | F      | 254.239.58.108  | 832-157-3870 | 79865 Hagan Terrace             | Katy                      | TX    | 77493       |            29.8678 |            -95.8298 | 2010-03-15 00:00:00
+       30046 |           | Nanete          | Hassur              |        | nhassurn6l@alibaba.com                    | F      | 232.115.170.92  | 209-364-5939 | 13961 Steensland Trail          | Stockton                  | CA    | 95205       |            37.9625 |           -121.2624 | 2010-03-15 00:00:00
+        2625 |           | Binky           | Dawtrey             |        | bdawtrey20w@shareasale.com                | M      | 15.75.236.78    | 804-990-4322 | 0353 Iowa Road                  | Richmond                  | VA    | 23208       |            37.5593 |            -77.4471 | 2010-03-15 00:00:00
+        7486 |           | Ciro            | Ferencowicz         |        | cferencowicz5rx@ucoz.ru                   | M      | 8.151.167.184   | 786-458-8754 | 61 Village Crossing             | Miami                     | FL    | 33111       |            25.5584 |            -80.4582 | 2010-03-15 00:00:00
+       13390 |           | Danika          | Lough               |        | dloughabx@skype.com                       | F      | 188.19.7.207    | 212-769-6845 | 38463 Forest Dale Way           | New York City             | NY    | 10019       |            40.7651 |            -73.9858 | 2010-03-15 00:00:00
