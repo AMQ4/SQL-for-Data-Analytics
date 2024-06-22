@@ -1,0 +1,3 @@
+In this exercise, we will create a table using the CREATE TABLE statement. The marketing team at ZoomZoom would like to create a
+table called countries to analyze the data of different countries. It should have four columns: an integer key column, a unique name
+column, a founding year column, and a capital column.
