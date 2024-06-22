@@ -1,0 +1,3 @@
+Our goal in this exercise is to update the data in a table using the UPDATE statement. Due to the higher cost of rare metals needed to
+manufacture an electric vehicle, the new 2019 Model Chi will need to undergo a price hike of 10%. Update the products table to
+increase the price of this product.
