@@ -1,0 +1,2 @@
+The head of sales at your company would like a list of all customers who bought a car. We need to create a query that will return all
+customer IDs, first names, last names, and valid phone numbers of customers who purchased a car.
