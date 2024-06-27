@@ -1,0 +1,16 @@
+ customer_id |   first_name   |    last_name    |    phone     
+-------------+----------------+-----------------+--------------
+       35824 | Wyatan         | Dickie          | 405-786-0858
+       13206 | Stace          | Tuison          | 810-769-8255
+        2958 | Kirstyn        | Draysay         | 208-534-6858
+       32636 | Kile           | Fishlee         | 937-207-1484
+       26730 | Raina          | Titterell       | 304-871-4445
+       23832 | Harrietta      | Leverette       | 803-298-1584
+       35844 | Maura          | Clyne           | 904-169-7028
+       43229 | Field          | Lopes           | 757-409-4658
+        6038 | Carey          | Swadling        | 727-426-1044
+       45631 | Bobinette      | Tear            | 404-280-5083
+        1042 | Jason          | Minchi          | 804-802-5134
+       14797 | Yvor           | Glozman         | 605-474-5406
+        6628 | Hashim         | Crang           | 412-686-1396
+        3538 | Diannne        | Legister        | 757-774-7184
