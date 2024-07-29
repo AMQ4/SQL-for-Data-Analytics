@@ -1,0 +1,25 @@
+ first_name  |   last_name   | guest_type 
+-------------+---------------+------------
+ Beauregard  | Peschke       | employee
+ Rina        | McCray        | customer
+ Ophelia     | Booth-Jarvis  | customer
+ Odella      | Lampl         | customer
+ Albertina   | Verick        | customer
+ Kelley      | Christley     | customer
+ Nobe        | Blazy         | customer
+ Glynn       | Dilworth      | customer
+ Rriocard    | Radki         | customer
+ Jori        | Titley        | customer
+ Antony      | Barkus        | customer
+ Griffin     | Leyburn       | customer
+ Neilla      | Blain         | customer
+ Auroora     | Douty         | customer
+ Miguelita   | Yankishin     | customer
+ Brittaney   | Boxe          | customer
+ Sharline    | Childers      | customer
+ Rozanne     | Wickham       | customer
+ Doll        | Simenel       | customer
+ Vince       | Gibben        | customer
+ Jessie      | Cullinan      | customer
+ Burtie      | Hexam         | customer
+ Amabelle    | Bigby         | employee
