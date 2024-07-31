@@ -1,0 +1,13 @@
+ customer_id |   first_name    |      last_name       |   region    
+-------------+-----------------+----------------------+-------------
+          19 | Ernie           | Maiklem              | Other
+          20 | Itch            | Hughill              | Southeast
+          21 | Pryce           | Geist                | Other
+          22 | Idelle          | Mainz                | New England
+          23 | Fara            | Heatherington        | Other
+          24 | Barbi           | Lanegran             | Other
+          25 | Jillie          | Stoter               | Other
+          26 | Rhiamon         | Wynes                | Other
+          27 | Anson           | Fellibrand           | Other
+          28 | Gradey          | Garrat               | Other
+          29 | Ashia           | Hyndman              | Southeast
